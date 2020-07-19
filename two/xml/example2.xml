@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+ <rootelement>
+  <first id="12" name="Вася Пупкин">
+   
+		
+   <address city="Москва" street="ул. Радио"/>
+   
+	
+  </first>
+  <first id="13" name="Василий Иванович">
+   
+		
+   <second id="14">
+			Здесь написан какой-то текст.
+		</second>
+   
+	
+  </first>
+  <!-- Это просто комментарий -->
+  <four/>
+ </rootelement>
